@@ -70,8 +70,5 @@ $ python main.py
 ## 👤 Autor
 
 <<<<<<< HEAD
-Desenvolvido por [Seu Nome Aqui].
+Desenvolvido por Emanuel Pinheiro de Freitas Mellina
 
-=======
-Desenvolvido por Emanuel Pinheiro De Freitas Mellina
->>>>>>> 6213839055aa5c45520c84575ef859f7a85bd444
