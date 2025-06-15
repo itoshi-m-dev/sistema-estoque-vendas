@@ -54,13 +54,6 @@ python main.py
 - **Associação entre classes:** a classe `Vendas` depende da classe `Produtos`.
 - **Uso de propriedades:** método `adicionar_produto_compra` usando `@property`.
 
-## 💡 Possíveis Melhorias Futuras
-
-- Persistência de dados (salvar produtos e vendas em arquivo JSON ou banco de dados).
-- Interface gráfica com Tkinter ou PyQt.
-- Controle de login/admin para gerenciar o sistema.
-- Validação de entradas para evitar erros de digitação ou tipos incorretos.
-
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome Aqui].
+Desenvolvido por Emanuel Pinheiro De Freitas Mellina
