@@ -1,17 +1,16 @@
-
 # 📦 Sistema de Gerenciamento de Estoque e Vendas
 
 Este projeto é um sistema simples de gerenciamento de produtos, clientes e vendas desenvolvido em Python, utilizando conceitos fundamentais de Programação Orientada a Objetos (POO).
 
 ## 🚀 Funcionalidades
 
-✔️ Cadastro de produtos (nome, preço e quantidade)  
-✔️ Baixa de estoque (remoção de quantidade específica de um produto)  
-✔️ Remoção de produtos do sistema  
-✔️ Cadastro e visualização de clientes (nome e CPF)  
-✔️ Adição de produtos no carrinho de vendas  
-✔️ Visualização de itens no carrinho com cálculo do subtotal e total da compra  
-✔️ Finalização da venda com atualização automática do estoque  
+✔️ Cadastro de produtos (nome, preço e quantidade)\
+✔️ Baixa de estoque (remoção de quantidade específica de um produto)\
+✔️ Remoção de produtos do sistema\
+✔️ Cadastro e visualização de clientes (nome e CPF)\
+✔️ Adição de produtos no carrinho de vendas\
+✔️ Visualização de itens no carrinho com cálculo do subtotal e total da compra\
+✔️ Finalização da venda com atualização automática do estoque
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -24,8 +23,8 @@ Este projeto é um sistema simples de gerenciamento de produtos, clientes e vend
 
 ```
 📦 projeto-estoque-vendas
- ┣ 📜 main.py
- ┗ 📜 README.md
+ ├ 📋 main.py
+ └ 📋 README.md
 ```
 
 ## 📋 Como Executar
@@ -40,6 +39,20 @@ python main.py
 
 4. Use o menu interativo para utilizar as funções do sistema.
 
+### 👉 Exemplo de Saída no Terminal:
+
+```
+$ python main.py
+===== MENU =====
+1 - Cadastrar produto
+2 - Baixar estoque
+3 - Remover produto
+4 - Adicionar produto à venda
+5 - Ver carrinho
+6 - Finalizar venda
+0 - Sair
+```
+
 ## 🎯 Fluxo Principal do Programa
 
 1. Cadastro de produtos.
@@ -48,7 +61,7 @@ python main.py
 4. Visualização e finalização da venda.
 5. Atualização do estoque após a venda.
 
-## 🏗️ Conceitos de POO Aplicados
+## 🏧 Conceitos de POO Aplicados
 
 - **Encapsulamento:** uso de atributos protegidos (ex: `_lista_produtos`, `_carrinho`).
 - **Associação entre classes:** a classe `Vendas` depende da classe `Produtos`.
@@ -64,3 +77,4 @@ python main.py
 ## 👤 Autor
 
 Desenvolvido por [Seu Nome Aqui].
+
